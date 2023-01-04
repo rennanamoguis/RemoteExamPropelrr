@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Remote Exam - Propelrr</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="dob">Date of Birth</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="submit_button">Submit</string>
+    <string name="hint_mobile">09XXXXXXXXX</string>
+</resources>
